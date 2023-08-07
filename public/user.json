@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Hashebur Rahman",
+        "profile": "https://i.postimg.cc/FHGSgTft/user-1.jpg",
+        "time": 12,
+        "title": "How to get your first job as a self-taught programmer",
+        "img": "https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?size=626&ext=jpg&ga=GA1.1.975900088.1679625900&semt=ais"
+    },
+    {
+        "id": 2,
+        "name": "Mrs. Setara",
+        "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCFX7zBiSj5YUONkI5PDmZWhlo7Vtr0jjBg&usqp=CAU",
+        "title": "Take part in coding challenges or competitions.  ",
+        "time": 7,
+        "img": "https://img.freepik.com/free-photo/program-development-concept-young-indian-man-working-with-computer_231208-3642.jpg?w=900&t=st=1683961820~exp=1683962420~hmac=9fc449993d09f2de5ad8d53919323bbfdfe3c0c0350b3a59c340d4dca36e92d9"
+    },
+    {
+        "id": 3,
+        "name": "Mr. Raju",
+        "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMoIngXmT6e3Z3_beN-iew3UuOB9S8r1-frg&usqp=CAU",
+        "title": "How to get a programming job without a degree?",
+        "time": 10,
+        "img": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901777.jpg?size=626&ext=jpg&ga=GA1.2.975900088.1679625900&semt=ais"
+    },
+    {
+        "id": 4,
+        "name": "Mina Mostofa",
+        "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4j5EsloB48DnxRWOYQKJxT01dGj6cVFEDPQ&usqp=CAU",
+        "title": "How to get your first job as a self-taught programmer ",
+        "time": 12,
+        "img": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=900&t=st=1683961883~exp=1683962483~hmac=b0da9ca138603568a587899e08a4b5135715da4e594eb2495090ce5b6669f0a0"
+    },
+    {
+        "id": 5,
+        "name": "Mrs. Setara",
+        "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb89cQWIjrYYu4O2L0rTIIrGCw3iOc1irEww&usqp=CAU",
+        "title": "A developer and get your first job as quickly as possible",
+        "time": 8,
+        "img": "https://img.freepik.com/free-photo/man-working-energy-innovations_23-2148820171.jpg?size=626&ext=jpg&ga=GA1.1.975900088.1679625900&semt=ais"
+    }
+]

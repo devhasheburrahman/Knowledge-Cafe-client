@@ -1,0 +1,43 @@
+.header {
+
+    height: 70px;
+    background-color: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+
+
+}
+
+.header img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+@media (max-width: 600px) {
+
+    .header {
+        height: 40px;
+        background-color: #1C2B35;
+
+
+
+    }
+
+    h1 {
+        font-size: 10px !important;
+    }
+
+    .header img {
+        height: 30px;
+        width: 30px;
+        border-radius: 50%;
+
+    }
+}

@@ -1,0 +1,63 @@
+body {
+    position: relative;
+}
+
+.container {
+    display: flex;
+
+
+}
+
+.user-container {
+    width: 75%;
+
+}
+
+.blog-container {
+    width: 25%;
+    background: rgba(17, 17, 17, 0.05);
+    /* position: fixed; */
+
+}
+
+.spant {
+    font-weight: 700;
+    font-size: 22px;
+
+    color: #6047EC;
+    background: rgba(96, 71, 236, 0.1);
+    border: 1px solid #6047EC;
+    border-radius: 8px;
+    color: #6047EC;
+    padding: 10px;
+}
+
+.bookmar-blog {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #6047EC;
+    background: rgba(96, 71, 236, 0.1);
+    border: 1px solid #6047EC;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+@media (max-width: 600px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .user-container {
+        width: 100%;
+
+    }
+
+    .blog-container {
+        width: 100%;
+        background: rgba(17, 17, 17, 0.05);
+        /* position: fixed; */
+
+    }
+}
